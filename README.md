@@ -12,3 +12,5 @@ omerburakozgur1@gmail.com
 omerburakozgur.itch.io/
 
 If you are an artist and you see your asset used on this project don't worry i will gather all the references and put them on this page and also in the game. 
+
+[<img src="https://i3.ytimg.com/vi/hN8WNtm1iks/maxresdefault.jpg" width="50%">](https://youtu.be/hN8WNtm1iks "To The Reach Gameplay")
