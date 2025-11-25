@@ -14,7 +14,7 @@
 
 <h3>🎥 Gameplay Showcase (Click to Watch)</h3>
 <a href="https://youtu.be/hN8WNtm1iks" target="_blank" title="Click to watch full gameplay video">
-  <img src="https://github.com/user-attachments/assets/c0c68097-7a6a-4963-9962-8e376193404f" alt="To The Reach Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;">
+  <img src="https://github.com/user-attachments/assets/53633927-a7a6-446c-8907-cebc9f14482e" alt="To The Reach Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;">
 </a>
 
 <br><br>
