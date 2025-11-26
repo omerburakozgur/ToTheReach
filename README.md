@@ -3,14 +3,12 @@
 <h1>⚔️ To The Reach</h1>
 <h3>Narrative-Driven 2D Action Platformer</h3>
 
-<p>
-  <a href="https://omerburakozgur.itch.io/to-the-reach" target="_blank">
+ <a href="https://omerburakozgur.itch.io/to-the-reach" target="_blank">
     <img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io">
   </a>
-  <a href="https://youtu.be/hN8WNtm1iks" target="_blank">
-    <img src="https://img.shields.io/badge/Watch-Gameplay_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Gameplay">
-  </a>
-</p>
+ <a href="https://docs.google.com/spreadsheets/d/170ER9QGe05l_hQTVN4tuNwHNAqZiFPzERh6UPb0jh7o/edit?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Document-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="Document"></a>
+   <a href="https://youtu.be/hN8WNtm1iks" target="_blank"> <img src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video"> </a> 
+   <a target="_blank" href="https://www.artstation.com/artwork/GvldvB"> <img alt="ArtStation" src="https://img.shields.io/badge/Visuals-Artstation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"> </a> </p>
 
 <h3>🎥 Gameplay Showcase (Click to Watch)</h3>
 <a href="https://youtu.be/hN8WNtm1iks" target="_blank" title="Click to watch full gameplay video">
